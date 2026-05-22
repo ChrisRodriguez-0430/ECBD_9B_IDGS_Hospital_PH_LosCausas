@@ -60,7 +60,7 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 
 | Integrante | Contacto | Rol | Observaciones |
 |---|---|---|---|
-| Christian Paúl Rodriguez Perez | @Jon-ram | Lider BackEnd | ✅ Revisado y aprobado. |
-| Josue Martinez Otero | @Josue-Martinez-Otero | Líder FrontEnd | ✅ Revisado y aprobado. |
-| Jonathan Baldemar Ramírez Reyes | @ChrisRodriguez-0430 | Lider Base de Datos | ✅ Revisado y aprobado. |
+| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/Jon-ram) | Lider BackEnd | ✅ Revisado y aprobado. |
+| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ✅ Revisado y aprobado. |
+| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | Lider Base de Datos | ✅ Revisado y aprobado. |
 | Jose Agustín Jimenez Castillo | @Jon-ram | BackEnd | ✅ Revisado y aprobado. |
