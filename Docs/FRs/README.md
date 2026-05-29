@@ -1,3 +1,34 @@
-# FRs
+# ⚙️ Requerimientos Funcionales (FRs)
 
-Coloca aquí los archivos de **FRs** del proyecto ORATIO.
+![Docs](https://img.shields.io/badge/DOCS-FUNCTIONAL_REQUIREMENTS-007ec6?style=flat-square)
+
+Especificación detallada de las capacidades funcionales y servicios que el sistema debe proveer para resolver las tareas del personal de farmacia y administración.
+
+---
+
+### 📂 Ubicación en el Proyecto
+```text
+PC-Hospital-PH-Meditech/
+├── DataBases/
+├── DataModels/
+├── Deliverables/
+├── Docs/
+│   ├── BRs/
+│   ├── FRs/         <-- Carpeta actual 📌
+│   ├── GUIs/
+│   │   ├── WearableApp/
+│   │   └── WebApp/
+│   ├── NFRs/
+│   ├── UHs/
+│   └── URs/
+└── README.md
+
+
+# Equipo de Desarrollo
+
+| Integrante | Contacto | Rol | Observaciones |
+|---|---|---|---|
+| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/Jon-ram) | Lider BackEnd | ❌ No comentado. |
+| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ✅ Revisado y aprobado. |
+| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | Lider Base de Datos | ❌ No comentado. |
+| Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) |Backend| ❌ No comentado. |
