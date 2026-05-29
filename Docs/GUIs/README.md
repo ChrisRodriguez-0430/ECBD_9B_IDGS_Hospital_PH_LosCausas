@@ -1,10 +1,6 @@
-# 💻 Prototipos - WebApp
+# GUIs - Interfaces Gráficas de Usuario
 
-![Docs](https://img.shields.io/badge/GUIs-WEB_APP-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-Documentación de las interfaces de usuario de la plataforma web de escritorio orientada a la administración central de la farmacia.
-
----
+En este apartado se documentan los Prototipos de Interfaces Gráficas (GUIs) del Sistema de Gestión Farmacéutica Hospitalaria. Incluye los mockups y diseños visuales de la aplicación web para el personal del departamento de farmacia y de la aplicación wearable para monitoreo de alertas, sirviendo como referencia para el desarrollo del frontend.
 
 ### 📂 Ubicación en el Proyecto
 ```text
@@ -15,13 +11,14 @@ PC-Hospital-PH-Meditech/
 ├── Docs/
 │   ├── BRs/
 │   ├── FRs/
-│   ├── GUIs/
+│   ├── GUIs/        <-- Carpeta actual 📌
 │   │   ├── WearableApp/
-│   │   └── WebApp/       <-- Carpeta actual 📌
+│   │   └── WebApp/
 │   ├── NFRs/
 │   ├── UHs/
 │   └── URs/
 └── README.md
+
 
 
 # Equipo de Desarrollo
