@@ -1,4 +1,4 @@
-# DataModels – ORATIO
+# DataModels
 
 En este apartado se encuentran los modelos de aprendizaje automático utilizados.
 
