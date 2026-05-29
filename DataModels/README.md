@@ -1,20 +1,25 @@
 # DataModels – ORATIO
 
-En este apartado se encuentran los modelos de aprendizaje automático utilizados en el proyecto **ORATIO**.
+En este apartado se encuentran los modelos de aprendizaje automático utilizados.
 
 ## Estructura de Archivos
 
 ```
 DataModels
 ├── Supervised_LMs      ← Modelos supervisados (clasificación, regresión, etc.)
-└── Unsupervised_LMs    ← Modelos no supervisados (clustering, reducción dimensional, etc.)
+│   └──README.md
+├── Unsupervised_LMs    ← Modelos no supervisados (clustering, reducción dimensional, etc.)
+│   └── README.md
+└── README.md
 ```
+
 
 ## Equipo de Desarrollo
 
 | Integrante | Contacto | Rol | Observaciones |
 |---|---|---|---|
-| Josue Martinez Otero | @Josue-Martinez-Otero | Líder de Databases | ✅ Revisado y aprobado. |
-| Marcos Jesus Rios Duran | @Marcos-Jesus-Rios-Duran | Líder de Documentación | ✅ Revisado y aprobado. |
-| Yaréd Amaury Romero Martínez | @AmauryRomero1285 | Desarrollador Backend | Revisado, faltan algunos archivos, pero en general, todo bien ✅ |
-| Uriel Abdallah Medina Torres | @UrielMedina0302 | Desarrollador Frontend | 😔 Sin comentar |
+| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/Jon-ram) | Lider BackEnd | ❌ Por revisar. |
+| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ❌ Por revisar. |
+| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | Lider Base de Datos | ✅ Revisado y aprobado. |
+| Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) |Backend| ❌ Por revisar. |
+
