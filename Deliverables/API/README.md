@@ -14,11 +14,9 @@ API
 └── UserManual      ← Manual de usuario
 ```
 
-## Equipo de Desarrollo
-
 | Integrante | Contacto | Rol | Observaciones |
 |---|---|---|---|
-| Josue Martinez Otero | @Josue-Martinez-Otero | Líder de Databases | ✅ Revisado y aprobado. |
-| Marcos Jesus Rios Duran | @Marcos-Jesus-Rios-Duran | Líder de Documentación | ✅ Revisado y aprobado. |
-| Yaréd Amaury Romero Martínez | @AmauryRomero1285 | Desarrollador Backend | Revisado, faltan algunos archivos, pero en general, todo bien ✅ |
-| Uriel Abdallah Medina Torres | @UrielMedina0302 | Desarrollador Frontend | 😔 Sin comentar |
+| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/Jon-ram) | Lider BackEnd | ✅ Revisado y aprobado. |
+| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ❌pendiente |
+| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | Lider Base de Datos | ❌pendiente  |
+| Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) |Backend| ✅ Revisado y aprobado. |
