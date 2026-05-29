@@ -58,9 +58,9 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 
 ## Equipo de Desarrollo
 
-| Integrante | Contacto | Rol | Observaciones |
+| Integrante | Contacto |  Observaciones |
 |---|---|---|---|
 | Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/ChrisRodriguez-0430) |  ✅ Revisado y aprobado. |
 | Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | ❓ Pendiente|
 | Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) |❓ Pendiente|
-| Jose Agustín Jimenez Castillo | https://github.com/agustin963|❓ Pendiente |
+| Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963)|❓ Pendiente |
