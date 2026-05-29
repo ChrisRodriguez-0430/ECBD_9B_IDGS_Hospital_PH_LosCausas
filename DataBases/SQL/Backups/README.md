@@ -1,59 +1,15 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
+# ECBD_9B_IDGS_Hospital_PH_LosCausas
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
+Repositorio del proyecto **ECBD_9B_IDGS_Hospital_PH_LosCausas**.
 
 ## Estructura General
 
+Contexto: Este README corresponde a `DataBases/SQL/Backups`. Aquí se guardan copias y volcados relacionados con la parte SQL del proyecto.
+
 ```
-9A_IDGS_ECDB_PC-Hospital-UDN-NombreEquipo
-├── DataBases
-│   ├── NoSQL
-│   │   ├── Backups
-│   │   ├── DD
-│   │   └── Schemas
-│   ├── SQL
-│   │   ├── Backups
-│   │   ├── DD
-│   │   ├── ERD
-│   │   └── RM
-│   └── README.md
-├── DataModels
-│   ├── Supervised_LMs
-│   ├── Unsupervised_LMs
-│   └── README.md
-├── Deliverables
-│   ├── API
-│   │   ├── DeployManual
-│   │   ├── UserManual
-│   │   ├── source
-│   │   │   ├── backend
-│   │   │   └── frontend
-│   │   └── README.md
-│   ├── WearableApp
-│   │   ├── DeployManual
-│   │   ├── UserManual
-│   │   ├── source
-│   │   │   ├── backend
-│   │   │   └── frontend
-│   │   └── README.md
-│   └── WebApp
-│       ├── DeployManual
-│       ├── UserManual
-│       ├── source
-│       │   ├── backend
-│       │   └── frontend
-│       └── README.md
-├── Docs
-│   ├── BRs
-│   ├── FRs
-│   ├── GUIs
-│   │   ├── WearableApp
-│   │   └── WebApp
-│   ├── NFRs
-│   ├── UHs
-│   ├── URs
-│   └── README.md
-└── README.md
+DataBases/SQL/Backups/
+├── README.md
+(copias de seguridad y volcados de la base de datos SQL)
 ```
 
 ## Equipo de Desarrollo

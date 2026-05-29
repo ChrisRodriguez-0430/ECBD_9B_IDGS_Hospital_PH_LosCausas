@@ -1,59 +1,17 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
+# ECBD_9B_IDGS_Hospital_PH_LosCausas
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
+Repositorio del proyecto **ECBD_9B_IDGS_Hospital_PH_LosCausas**.
 
 ## Estructura General
 
+Contexto: Este README describe la estructura del directorio `DataBases/SQL`. La ruta es relativa a la raíz del repositorio y muestra las carpetas principales para objetos SQL.
+
 ```
-9A_IDGS_ECDB_PC-Hospital-UDN-NombreEquipo
-├── DataBases
-│   ├── NoSQL
-│   │   ├── Backups
-│   │   ├── DD
-│   │   └── Schemas
-│   ├── SQL
-│   │   ├── Backups
-│   │   ├── DD
-│   │   ├── ERD
-│   │   └── RM
-│   └── README.md
-├── DataModels
-│   ├── Supervised_LMs
-│   ├── Unsupervised_LMs
-│   └── README.md
-├── Deliverables
-│   ├── API
-│   │   ├── DeployManual
-│   │   ├── UserManual
-│   │   ├── source
-│   │   │   ├── backend
-│   │   │   └── frontend
-│   │   └── README.md
-│   ├── WearableApp
-│   │   ├── DeployManual
-│   │   ├── UserManual
-│   │   ├── source
-│   │   │   ├── backend
-│   │   │   └── frontend
-│   │   └── README.md
-│   └── WebApp
-│       ├── DeployManual
-│       ├── UserManual
-│       ├── source
-│       │   ├── backend
-│       │   └── frontend
-│       └── README.md
-├── Docs
-│   ├── BRs
-│   ├── FRs
-│   ├── GUIs
-│   │   ├── WearableApp
-│   │   └── WebApp
-│   ├── NFRs
-│   ├── UHs
-│   ├── URs
-│   └── README.md
-└── README.md
+DataBases/SQL/
+├── Backups/
+├── DD/
+├── ERD/
+└── RM/
 ```
 
 ## Equipo de Desarrollo
