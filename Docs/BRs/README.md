@@ -20,6 +20,8 @@ PC-Hospital-PH-Meditech/
 │   └── URs/
 └── README.md
 
+```
+
 ## Equipo de Desarrollo
 
 | Integrante | Contacto | Rol | Observaciones |

@@ -7,7 +7,7 @@ Recopilación inicial de las necesidades reales, puntos de dolor y expectativas 
 ---
 
 ### 📂 Ubicación en el Proyecto
-```text
+```
 PC-Hospital-PH-Meditech/
 ├── DataBases/
 ├── DataModels/
@@ -22,6 +22,8 @@ PC-Hospital-PH-Meditech/
 │   ├── UHs/
 │   └── URs/         <-- Carpeta actual 📌
 └── README.md
+
+```
 
 # Equipo de Desarrollo
 
