@@ -1,6 +1,4 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 # SOURCE
 
 

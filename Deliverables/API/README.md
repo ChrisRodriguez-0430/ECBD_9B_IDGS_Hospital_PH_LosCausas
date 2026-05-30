@@ -1,13 +1,13 @@
-# Deliverables / API – ORATIO
+# Deliverables 
 
-En este apartado se encuentran los entregables del componente **API** del proyecto ORATIO.
+En este apartado se encuentran los entregables del componente **API** del proyecto .
 
 ## Estructura de Archivos
 
 ```
 
 ├── Deliverables
-│   ├── **API**
+│   ├── API          <--------- 📌
 │   │   ├──DeployManual
 │   │   ├── UserManual
 │   │   ├── source
@@ -24,7 +24,7 @@ En este apartado se encuentran los entregables del componente **API** del proyec
 │   │   └── README.md
 │   └── WebApp
 │       ├── DeployManual
-│       ├── **UserManual**
+│       ├── UserManual
 │       ├── source
 │       │   ├── backend
 │       │   └── frontend

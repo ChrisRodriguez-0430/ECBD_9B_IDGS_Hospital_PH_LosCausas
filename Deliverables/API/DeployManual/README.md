@@ -1,6 +1,6 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
+
+
 # User Manual
 
 
@@ -9,8 +9,9 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 
 ├── Deliverables
 │   ├── API
-│   │   ├──DeployManual
-│   │   ├── **UserManual**
+│   │   ├── Build      
+│   │   ├──DeployManual    <--------- 📌
+│   │   ├── UserManual
 │   │   ├── source
 │   │   │   ├── backend
 │   │   │   └── frontend

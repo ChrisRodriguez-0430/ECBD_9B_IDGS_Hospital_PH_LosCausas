@@ -1,6 +1,6 @@
-# Deliverables / WebApp – ORATIO
+# Deliverables 
 
-En este apartado se encuentran los entregables del componente **WebApp** del proyecto ORATIO.
+En este apartado se encuentran los entregables del componente **WebApp** del proyecto .
 
 ## Estructura de Archivos
 
@@ -22,9 +22,9 @@ En este apartado se encuentran los entregables del componente **WebApp** del pro
 │   │   │   ├── backend
 │   │   │   └── frontend
 │   │   └── README.md
-│   └── WebApp
+│   └── WebApp             <--------- 📌
 │       ├── DeployManual
-│       ├── **UserManual**
+│       ├── UserManual
 │       ├── source
 │       │   ├── backend
 │       │   └── frontend

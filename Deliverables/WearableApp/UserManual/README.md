@@ -1,6 +1,4 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 # User manual
 
 
@@ -18,7 +16,7 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 │   ├── WearableApp
 │   │   ├── Build 
 │   │   ├── DeployManual
-│   │   ├── **UserManual**
+│   │   ├── UserManual        <--------- 📌
 │   │   ├── source
 │   │   │   ├── backend
 │   │   │   └── frontend

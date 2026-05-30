@@ -1,6 +1,6 @@
-# Deliverables / WearableApp – ORATIO
+# Deliverables 
 
-En este apartado se encuentran los entregables del componente **WearableApp** del proyecto ORATIO.
+En este apartado se encuentran los entregables del componente **WearableApp** del proyecto .
 
 ## Estructura de Archivos
 ```
@@ -13,7 +13,7 @@ En este apartado se encuentran los entregables del componente **WearableApp** de
 │   │   │   ├── backend
 │   │   │   └── frontend
 │   │   └── README.md
-│   ├── WearableApp
+│   ├── WearableApp         <--------- 📌
 │   │   ├── Build
 │   │   ├── DeployManual
 │   │   ├── UserManual
@@ -23,7 +23,7 @@ En este apartado se encuentran los entregables del componente **WearableApp** de
 │   │   └── README.md
 │   └── WebApp
 │       ├── DeployManual
-│       ├── **UserManual**
+│       ├── UserManual
 │       ├── source
 │       │   ├── backend
 │       │   └── frontend
