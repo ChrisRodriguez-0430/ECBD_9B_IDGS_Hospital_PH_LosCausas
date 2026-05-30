@@ -1,11 +1,11 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
+# 9B IDGS – ECDB | Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
+Repositorio del proyecto 
 
 ## Estructura General
 
 ```
-9A_IDGS_ECDB_PC-Hospital-UDN-NombreEquipo
+
 ├── DataBases
 │   ├── NoSQL
 │   │   ├── Backups
