@@ -7,7 +7,7 @@ Especificación detallada de las capacidades funcionales y servicios que el sist
 ---
 
 ### 📂 Ubicación en el Proyecto
-```text
+``` 
 PC-Hospital-PH-Meditech/
 ├── DataBases/
 ├── DataModels/
@@ -22,7 +22,7 @@ PC-Hospital-PH-Meditech/
 │   ├── UHs/
 │   └── URs/
 └── README.md
-
+```
 
 # Equipo de Desarrollo
 
@@ -32,3 +32,6 @@ PC-Hospital-PH-Meditech/
 | Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ✅ Revisado y aprobado. |
 | Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | Lider Base de Datos | ❌ No comentado. |
 | Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) |Backend| ❌ No comentado. |
+
+
+

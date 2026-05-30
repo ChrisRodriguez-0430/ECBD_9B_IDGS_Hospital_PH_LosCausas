@@ -19,6 +19,7 @@ PC-Hospital-PH-Meditech/
 │   ├── UHs/
 │   └── URs/
 └── README.md
+```
 
 ## Equipo de Desarrollo
 

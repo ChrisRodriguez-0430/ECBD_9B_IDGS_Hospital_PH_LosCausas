@@ -22,7 +22,7 @@ PC-Hospital-PH-Meditech/
 │   ├── UHs/         <-- Carpeta actual 📌
 │   └── URs/
 └── README.md
-
+```
 
 # Equipo de Desarrollo
 
