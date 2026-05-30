@@ -3,6 +3,8 @@
 
 
 ## Estructura General
+```
+
 
 ├── Deliverables
 │   ├── API
@@ -27,6 +29,8 @@
 │       │   ├── backend
 │       │   └── frontend
 │       └── README.md
+```
+
 
 ## Equipo de Desarrollo
 

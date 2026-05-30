@@ -1,10 +1,9 @@
-# 9A IDGS – ECDB | PC-Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 # SOURCE
 
 
 ## Estructura General
+```
 
 ├── Deliverables
 │   ├── API
@@ -29,6 +28,7 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 │       │   ├── backend
 │       │   └── frontend
 │       └── README.md
+```
 
 ## Equipo de Desarrollo
 
