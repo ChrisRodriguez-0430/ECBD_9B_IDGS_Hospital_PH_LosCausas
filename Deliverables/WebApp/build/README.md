@@ -5,6 +5,7 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 
 
 ## Estructura General
+```
 
 ├── Deliverables
 │   ├── API
@@ -30,6 +31,7 @@ Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
 │       │   ├── backend
 │       │   └── frontend
 │       └── README.md
+```
 
 ## Equipo de Desarrollo
 

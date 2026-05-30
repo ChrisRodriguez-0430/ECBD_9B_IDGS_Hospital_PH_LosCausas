@@ -5,13 +5,30 @@ En este apartado se encuentran los entregables del componente **API** del proyec
 ## Estructura de Archivos
 
 ```
-API
-├── build           ← Artefactos de compilación / build final
-├── DeployManual    ← Manual de despliegue
-├── source
-│   ├── backend     ← Código fuente del backend
-│   └── frontend    ← Código fuente del frontend
-└── UserManual      ← Manual de usuario
+
+├── Deliverables
+│   ├── **API**
+│   │   ├──DeployManual
+│   │   ├── UserManual
+│   │   ├── source
+│   │   │   ├── backend
+│   │   │   └── frontend
+│   │   └── README.md
+│   ├── WearableApp
+│   │   ├── Build
+│   │   ├── DeployManual
+│   │   ├── UserManual
+│   │   ├── source
+│   │   │   ├── backend
+│   │   │   └── frontend
+│   │   └── README.md
+│   └── WebApp
+│       ├── DeployManual
+│       ├── **UserManual**
+│       ├── source
+│       │   ├── backend
+│       │   └── frontend
+│       └── README.md
 ```
 
 | Integrante | Contacto | Rol | Observaciones |
