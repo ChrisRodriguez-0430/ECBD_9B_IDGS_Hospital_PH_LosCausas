@@ -1,6 +1,6 @@
 # 9A IDGS – ECDB | PC-Hospital-UDN
 
-Repositorio del proyecto **ORATIO** — PC-Hospital-UDN.
+Repositorio del proyecto **ECBD_9B_IDGS_Hospital_PH_LosCausas**.
 
 ## Estructura General
 
