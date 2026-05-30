@@ -18,6 +18,6 @@ DataModels
 | Integrante | Contacto | Rol | Observaciones |
 |---|---|---|---|
 | Christian Paul Rodríguez Perez | [@ChrisRodriguez-0430](https://github.com/Jon-nam) | Líder BackEnd | ✅ Revisado y aprobado.  |
-| Josue Martínez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ❌ Por revisar. |
+| Josue Martínez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | Líder FrontEnd | ✅ Revisado y aprobado. |
 | Jonathan Baldemar Ramírez Reyes | [@Jon-nam](https://github.com/Jon-nam) | Líder Base de Datos | ✅ Revisado y aprobado. |
 | Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) | Backend | ✅ Revisado y aprobado. |
