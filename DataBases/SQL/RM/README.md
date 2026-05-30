@@ -16,7 +16,7 @@ DataBases/SQL/RM/
 
 | Integrante | Contacto | Observaciones |
 | --- | --- | --- |
-| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/ChrisRodriguez-0430) | ✅ Revisado y aprobado. |
-| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | ✅ Revisado y aprobado. |
-| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | ❓ Pendiente |
+| Christian Paúl Rodriguez Perez | [@ChrisRodriguez-0430](https://github.com/ChrisRodriguez-0430) | ✅ Revisado y aprobado. 
+| Josue Martinez Otero | [@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero) | ✅ Revisado y aprobado. 
+| Jonathan Baldemar Ramírez Reyes | [@Jon-ram](https://github.com/Jon-ram) | ✅ Revisado y aprobado. 
 | Jose Agustín Jimenez Castillo | [@agustin963](https://github.com/agustin963) | ❓ Pendiente |
