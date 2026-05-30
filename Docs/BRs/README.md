@@ -21,7 +21,7 @@ PC-Hospital-PH-Meditech/
 └── README.md
 ```
 
-```
+
 
 ## Equipo de Desarrollo
 
